@@ -1,6 +1,5 @@
 # Real-Time E-Commerce Analytics Pipeline
 
-> Transitioning from App Cloud Support to Data Engineering  
 > A production-grade pipeline built with Kafka, PySpark, dbt, Airflow, and AWS
 
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
@@ -104,5 +103,4 @@ python producer/producer.py
 ## Author
 
 **Jeyrome Orosco**  
-Transitioning from App Cloud Support → Data Engineering  
 [LinkedIn](https://www.linkedin.com/in/jeyromeorosco/) · [GitHub](https://github.com/jeyromeorosco)
