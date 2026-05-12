@@ -1,4 +1,4 @@
-# 🚀 Real-Time E-Commerce Analytics Pipeline
+# Real-Time E-Commerce Analytics Pipeline
 
 > Transitioning from App Cloud Support to Data Engineering  
 > A production-grade pipeline built with Kafka, PySpark, dbt, Airflow, and AWS
@@ -9,7 +9,7 @@
 
 ---
 
-## 📐 Architecture
+## Architecture
 
 ```mermaid
 flowchart LR
@@ -33,7 +33,7 @@ flowchart LR
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 de-ecommerce-pipeline/
@@ -53,7 +53,7 @@ de-ecommerce-pipeline/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Tool | Purpose |
 |---|---|---|
@@ -67,7 +67,7 @@ de-ecommerce-pipeline/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Docker Desktop running
@@ -90,7 +90,7 @@ python producer/producer.py
 
 ---
 
-## 📅 Roadmap
+## Roadmap
 
 - [x] Month 1 — Kafka ingestion layer
 - [ ] Month 2 — PySpark + Postgres + S3
@@ -101,8 +101,8 @@ python producer/producer.py
 
 ---
 
-## 👤 Author
+## Author
 
 **Jeyrome Orosco**  
 Transitioning from App Cloud Support → Data Engineering  
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/jeyromeorosco/) · [GitHub](https://github.com/jeyromeorosco)
